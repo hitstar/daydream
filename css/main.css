@@ -1,0 +1,94 @@
+body{background-color:#f7f7f7;overflow-x:hidden;margin-top:40px}
+input,a,textarea{outline:none;margin-top:5px}
+form{margin:0px;}
+hr{margin:10px 0px;}
+
+#repeat{display:none}
+#topic{margin-bottom:40px;}
+#like{display:none}
+.content {display:inline-block;width:60%;padding:10px;border-radius:5px;margin:10px 0px;float:left;}
+.content h4{margin:0px;}
+.span1 img{height:46px ;width:40px;padding-top:4px;}
+#repeat .span1 img{height:20px;width:20px;padding:0px 6px} 
+.img{height:240px;width:200px;margin:10px 90px}
+.span10 i{margin-left:4px; margin-right:4px;}
+.content hr{margin:10px 0px; border:2px dashed #eee}
+.content .stream-item {margin:10px 0px 40px 0px;}
+.content .stream-item .popover{display:block;position:relative;margin-left:65px;border:1px solid #dddddd;width:auto;background-color:white;border:1px solid #CCCCCC;padding:0px;}
+.content .stream-item .popover .arrow{top:25px;}
+
+.content .stream-item .stream-header{margin:5px 0px 20px 10px}
+.content .stream-item .stream-text{padding-left:20px;padding-right:5px;}
+.content .stream-item .stream-text .thumbnails img{border:2px solid #000}
+.content .stream-item .stream-header span{margin-right:10px}
+.content .stream-item .stream-item-footer{padding:0px 15px;margin-top:5px;-webkit-border-radius:0 0 6px 6px;-moz-border-radius:0 0 6px 6px;border-radius:0 0 6px 6px;}
+.time-off{margin-left:8px}
+.content .stream-item .stream-item-footer .action{float:left;margin:0px 3px;font-size:0.8em;font-weight:bold}
+
+.content .stream-item  .stream-item-footer .reply{display:none;}
+.content .stream-item .reply hr{border:1px dashed #ccc}
+.sidebar{display:inline-block;width:305px;margin-right:10px;margin-top:50px;float:right;}
+.mini-profile,.recommand,.group-talking{background-color:#f7f7f7;border-radius:5px;padding:10px;display:block}
+.size40{width:40px;height:40px;}
+.size48{height:48px;width:48px;border-radius:6px;box-shadow:#AFC0AF 4px 4px 2px}
+.size50{width:50px;height:50px;box-shadow:#AFC0AF 4px 4px 2px}
+.size60{width:60px;height:60px;margin:10px}
+
+.size100{width:100px;height:100px;border-radius:6px;margin: 0 10px 10px 0}
+.recommand  hr{border:2px dashed #eee}
+.hobby{background-color:#fff;border-radius:8px;min-height:240px;max-height:460px;padding:5px 0 0 5px;}
+.white{color:#fff;text-align:center;}
+.form-horizontal #lisence .text{font-size:12px;}
+.form-horizontal ::-webkit-scrollbar {width: 9px;height: 9px;}
+.form-horizontal ::-webkit-scrollbar-thumb{background-color: #777777;-webkit-border-radius: 8px;}
+.form-horizontal ::-webkit-scrollbar-track-piece {background-color: #f1f1f1;}
+
+.act-pic-text{width:181px;padding-left:20px;padding-top:10px;}
+.act-text{vertical-align:top;margin-left:20px}
+.act-time{vertical-align:bottom;margin-left:10px;}
+#today img{height:150px;width:200px;margin:0px 20px;margin-top:10px;}
+#week img{height:120px;width:150px;margin-left:30px;margin-top:30px;}
+#month img{height:70px;width:90px;margin-left:30px;margin-top:20px;}
+.sidebar .hobby .club-show{height:60px;width:60px;float:left;margin:0px 8px 0 20px;}
+.sidebar .hobby  .badge{margin:3px 3px}
+.chat ::-webkit-scrollbar {width: 9px;height: 9px;}
+.chat ::-webkit-scrollbar-thumb{background-color: #777777;-webkit-border-radius: 8px;}
+.chat ::-webkit-scrollbar-track-piece {background-color: #f1f1f1;}
+.sidebar .act-show{margin-left:60px;height:150px;width:150px;}
+.sidebar .hobby .sq{width:10px;height:90px;}
+.sidebar .popover .arrow{left:35px}
+.sidebar .popover{position:relative;margin-top:-80px;z-index:2;}
+.content .act-show-text,.sidebar .act-show-text{margin-left:30px;width:150px;text-align:center}
+.text-min{overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.sidebar .act {margin-top:10px;}
+.sidebar .act .act-text{margin-left:10px}
+.accordion-toggle img{margin-top:20px;}
+.shadow{background-color:white;border:1px solid #eee;-webkit-border-radius:6px;-moz-border-radius:6px;border-radius:6px;-webkit-box-shadow:0 5px 10px rgba(0,0,0,0.2);-moz-box-shadow:0 5px 10px rgba(0,0,0,0.2);box-shadow:0px 3px 2px rgba(0,0,0,0.2);-webkit-background-clip:padding-box;-moz-background-clip:padding;background-clip:padding-box;}
+.border{margin-right:150px}
+.club{height:180px;width:330px;float:left;margin:10px 0px;padding:5px;background-color:#fff;}
+.signclub{height:180;width:310px;float:left;margin:5px 25px 15px 0;padding:5px;background-color:#fff;}
+.club-pic{margin:0px 15px;box-shadow:#444 4px 4px 6px;-webkit-border-radius:6px;-moz-border-radius:6px;border-radius:6px;}
+.club-text{height:140px;width:180px;float:left;}
+.club-des{height:60px;width:180px;margin-top:5px;overflow:hidden;}
+.all-club{height:160px;width:680px;float:left;margin:10px 10px;padding:10px 5px;background-color:#fff;}
+.all-club-pic{height:140px;width:140px;float:left;box-shadow:#444 4px 4px 6px;margin:10px 20px;}
+.limg{margin:10px 15px}
+.footer{background-color:#000;margin-top:20px;padding-bottom:20px;position:relative}
+.dapic{width:80px;height:80px;margin:0px 20px 50px 10px;float:left;text-align:center}
+.min-height{min-height:550px;margin-top:30px;background-color:#fff;border-radius:8px;padding:5px 15px;background-image:url(./img/banner.png)}
+.dapic img{margin-bottom:5px}
+.img_bg{background-color:white;border-radius:100px;}
+.img_bg .avatar{border-radius:32px;margin:3px;}
+.new-act{height:240px;width:175px;margin:0 11px 20px 15px;float:left;padding:15px;}
+.act-pic{width:200px;height:150px;margin-bottom:10px;}
+.liuyan{min-height:272px;width:240px;float:left;padding:10px;margin:10px}
+.liuyan img {margin:0 20px 10px 0}
+.liuyan-footer{margin-top:30px;}
+.act-pic-text .label{margin:20px 0px}
+.stream-item-footer img{margin:10px}
+.reply-item .span10{margin-left:-10px;}
+.item img{width:500px;height:300px;}
+.likimg {width:148px;height:90px;margin:10px 20px 0px 40px;}
+.album{margin:20px 50px 20px 50px;}
+.icon-heart :hover{background-color:#eee;}
+.aboutfont{font-size:25px;font-weight:bolder;line-height:35px}
